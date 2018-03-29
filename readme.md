@@ -6,4 +6,4 @@
 
 
 
-[1]:https://github.com/Happy-Everyday/free-write/tree/master/JavaScript/util
+[1]:https://github.com/Happy-Everyday/free-write/blob/master/JavaScript/util/util.js
