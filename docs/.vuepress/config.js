@@ -1,3 +1,4 @@
+// git push -f git@github.com:Happy-Everyday/happy-everyday.github.io.git master
 
 module.exports = {
     title: 'My Heart, My Words',
