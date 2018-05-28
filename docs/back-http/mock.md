@@ -34,7 +34,7 @@ Mock.setup({
 	Timeout: 400
 })
 Mock.setup({
-	Timeout: ‘200-60
+	Timeout: '200-600'
 })
 ```
 #### 4、具体例子，在vue中使用（我在项目中的用法）
