@@ -83,7 +83,7 @@ const tiezi = Array(total).fill().map((item, idx) => {
   let data = {
     tiezi: tiezi
   }
-  export default dat
+  export default data
 ```
 
 3.mockdata/index.js文件
