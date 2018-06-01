@@ -14,7 +14,7 @@ module.exports = {
             { text: '后端&协议', link: '/back-http/' },
             { text: '服务器相关', link: '/server-operation/' },
             { text: '工具相关', link: '/tools-about/' },
-            { text: 'Github', link: 'https://github.com/Happy-Everyday/free-write/tree/master/docs' }
+            { text: 'Github', link: 'https://github.com/Happy-Everyday/' }
         ],
         sidebar: {
             '/front/': [{
