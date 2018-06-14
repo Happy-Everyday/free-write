@@ -10,7 +10,7 @@ module.exports = {
     editLinkText: '帮助我们改进页面内容！',
     themeConfig: {
         nav: [
-            { text: '前端三剑客', link: '/front/' },
+            { text: '前端一锅端', link: '/front/' },
             { text: '后端&协议', link: '/back-http/' },
             { text: '服务器相关', link: '/server-operation/' },
             { text: '工具相关', link: '/tools-about/' },
@@ -18,13 +18,14 @@ module.exports = {
         ],
         sidebar: {
             '/front/': [{
-                title: '前端三剑客',
+                title: '前端一锅端',
                 collapsable: false,
                 children: [
                     ['', '介绍'],
                     ['HTML.md', 'HTML'],
                     ['CSS.md', 'CSS'],
-                    ['JS.md', 'JS']
+                    ['JS.md', 'JS'],
+                    ['mini-programs.md', '小程序']
                 ]
             }],
             '/back-http/': [{
