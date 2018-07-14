@@ -68,9 +68,36 @@ vsftpd: unrecognized service（无法识别vsftpd。说明卸载了vsftpd了）
 ---------------------/etc/vsftpd/vsftpd.conf END------------------------------------
 :::
 
+## 4.基本操作
+
+* ls 列出远程机的当前目录
+
+* cd 在远程机上改变工作目录
+
+* lcd 在本地机上改变工作目录
+
+* ascii 设置文件传输方式为ASCII模式
+
+* binary 设置文件传输方式为二进制模式
+
+* close 终止当前的ftp会话
+
+* hash 每次传输完数据缓冲区中的数据后就显示一个#号
+
+* get（mget） 从远程机传送指定文件到本地机
+
+* put（mput） 从本地机传送指定文件到远程机
+
+* open 连接远程ftp站点
+
+* ? 显示本地帮助信息
+
+* ! 转到Shell中
+
+
 * 添加FTP账户
 `useradd ftpadmin -s /sbin/nologin`
-* 给ftpadmin设置password`passwd ftpadmin`输入两遍password就可以
+* 给ftpadmin设置password`passwd ******`输入两遍password就可以
 
 
 * 创建FTP根文件夹
