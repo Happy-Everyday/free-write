@@ -3,6 +3,9 @@
 module.exports = {
     title: 'My Heart, My Words',
     description: '心之所想，笔之所往',
+    head: [
+        ['link', { rel: 'icon', href: 'https://www.bestlifebestyue.com/static/favicon.ico' }]
+    ],
     evergreen: true,
     repo: 'Happy-Everyday/free-write',
     docsDir: 'docs',
