@@ -6,13 +6,11 @@
         server localhost:8080; 
     }
 
-    ## Start www.quancha.cn ##
+    ## Start ##
     server {
         listen 80;
-        server_name  www.quancha.cn;
+        server_name  www.bestlifebestyue.com;
 
-        access_log  logs/quancha.access.log  main;
-        error_log  logs/quancha.error.log;
         root   html;
         index  index.html index.htm index.php;
 
