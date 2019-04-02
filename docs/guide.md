@@ -1,7 +1,7 @@
-* [主页](/)
-    * [推荐阅读](/)
-        * [自我介绍](/me.md)
-        * [阅读指引](/guide.md)
+
+* [推荐阅读](/)
+    * [自我介绍](/me.md)
+    * [阅读指引](/guide.md)
 * [前端三剑客](/front/)
     * [HTML](/front/HTML.md)
     * [CSS](/front/CSS.md)

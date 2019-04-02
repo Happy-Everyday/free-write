@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Happy-Everyday/free-write#readme",
   "devDependencies": {
-    "vuepress": "^0.8.4"
-  }
+    "vuepress": "^1.0.0-alpha.46"
+  },
+  "dependencies": {}
 }
