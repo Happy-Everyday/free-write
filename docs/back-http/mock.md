@@ -7,7 +7,7 @@ var Mock = require(‘mockjs’)
 1.数据模板
 2.数据占位符
 
-详见 https://github.com/nuysoft/Mock/wiki/Syntax-Specification
+详见 [https://github.com/nuysoft/Mock/wiki/Syntax-Specification](https://github.com/nuysoft/Mock/wiki/Syntax-Specification)
 
 ## 3、主要方法
 
