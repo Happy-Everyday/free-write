@@ -1,7 +1,7 @@
 ---
 sidebarDepth: 2
 ---
-
+阿里云centos_7_3_64
 ## 1.卸载
 * 查看当前server中的vsftpd
 ` rpm -qa|grep vsftpd`
