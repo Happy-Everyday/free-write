@@ -17,5 +17,11 @@ sidebarDepth: 2
 * 正则网站: [https://regexper.com/](https://regexper.com/)
 * es6学习网站: [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)
 * vue驱动静态站点生成工具: [https://vuepress.docschina.org/](https://vuepress.docschina.org/)
-* H5活动demo: [https://y.app.10086.cn/YXMB/CXText/project/template.html/](https://y.app.10086.cn/YXMB/CXText/project/template.html/)
 * markdown学习博客: [https://www.cnblogs.com/liugang-vip/p/6337580.html/](https://www.cnblogs.com/liugang-vip/p/6337580.html/)
+
+## 三方插件
+
+* jquery插件库：
+  * [https://plugins.jquery.com/](https://plugins.jquery.com/)
+  * [http://www.jq22.com/](http://www.jq22.com/)
+  * [http://www.htmleaf.com/](http://www.htmleaf.com/)
