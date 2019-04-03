@@ -16,7 +16,7 @@ sidebarDepth: 2
 
 * 正则网站: [https://regexper.com/](https://regexper.com/)
 * es6学习网站: [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)
-* vue驱动静态站点生成工具: [https://vuepress.docschina.org/](https://vuepress.docschina.org/)
+* vue驱动静态站点生成工具: [https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
 * markdown学习博客: [https://www.cnblogs.com/liugang-vip/p/6337580.html/](https://www.cnblogs.com/liugang-vip/p/6337580.html/)
 
 ## 三方插件
