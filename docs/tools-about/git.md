@@ -5,7 +5,7 @@ sidebarDepth: 2
 * 添加远程url：`git remote add <名称> <url>`
 * 修改远程url：`git remote origin set-url [url]`
 * 切换分支：`git checkout <分支名>`
-* 切换分支，本地没有即创建新分支：`.git checkout -b <分支名>`
+* 切换分支，本地没有即创建新分支：`git checkout -b <分支名>`
 * 修改远程url：先删后加：`git remote rm origin && git remote add origin [url]`
 * 修改远程url：直接改config文件
 * 查看用户名和邮箱：`git config user.name && git config user.email`
