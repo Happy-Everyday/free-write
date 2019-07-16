@@ -45,6 +45,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     ['', '介绍'],
+                    ['rsa.md', '服务器配置rsa免密登录'],
                     ['nginx.md', 'nginx安装和配置'],
                     ['vsftp.md', 'vsftp安装、配置、卸载']
                 ]

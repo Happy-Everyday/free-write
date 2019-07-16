@@ -11,6 +11,7 @@
     * [mock模拟数据](/back-http/mock.md)
     * [跨域请求](/back-http/cross-domain.md)
 * [服务器相关](/server-operation/)
+    * [服务器配置rsa免密登录](/server-operation/rsa.md)
     * [nginx安装和配置](/server-operation/nginx.md)
     * [vsftp安装、配置、卸载](/server-operation/vsftp.md)
 * [工具相关](/tools-about/)
